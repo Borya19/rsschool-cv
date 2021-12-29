@@ -28,3 +28,9 @@ I'm seventeen years old. I go to college. I'm a second year student of MRC. My m
 #### Online education
 
 - courses from EPAM
+
+## Code Example
+
+## English
+
+E2 (I'm learning English and watching TV shows to improve my level)
